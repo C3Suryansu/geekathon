@@ -35,6 +35,8 @@ Unlock your true sporting potential with the guidance of our AI coach! Olysper's
 - Machine Learning: TensorFlow, scikit-learn
 - Video Streaming: WebRTC, HLS
 
+# Demo Link: https://www.youtube.com/watch?v=mxzSMBxPL9A&ab_channel=SuryansuDash
+
 # Installation
 - Clone this repository to your local machine.
 - Run the `index.html` file from Sword-HTML-Placeholder
